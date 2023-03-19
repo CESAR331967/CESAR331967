@@ -1,4 +1,4 @@
-<h1 align="center">Hola mi nombre es: Cesar Almada</h1>
+<h1 align="center"> Cesar Almada</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 - 💬 Ask me about **html,javascript,jquery.css**
